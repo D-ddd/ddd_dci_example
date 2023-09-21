@@ -1,2 +1,2 @@
-# ddd_dci_example
-a implementation of the ddd-dci example from yuanrunzi
+# gtest_use_demo
+a very simple demo used google-test
