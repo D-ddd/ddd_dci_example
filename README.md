@@ -1,6 +1,8 @@
 # ddd_dci_example
 A C++ implementation of the ddd-dci example from yuanrunzi. 
-I hope there is nothing wrong badly.
+I hope there is nothing badly wrong.
+
+
 
 实现DCI架构
 ————————————————
